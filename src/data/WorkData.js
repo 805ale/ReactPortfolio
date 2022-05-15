@@ -47,7 +47,16 @@ export const Work = [
         demo:"https://codepen.io/805ale/pens/",
         github:"https://github.com/805ale"
         
-    },
+    }, 
+    {
+        id:6,
+        name:"SpaceWars",
+        description:"2D game engine written in C++, featuring a space shooter game that can be created with this engine",
+        tags:["C++"],
+
+        demo:"https://github.com/805ale/SpaceWars",
+        github:"https://github.com/805ale/SpaceWars"
+    }
   
     
   
